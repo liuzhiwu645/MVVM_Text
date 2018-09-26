@@ -25,7 +25,8 @@
     UINavigationController *navc = [[UINavigationController alloc]initWithRootViewController:[LZWRootViewController new]];
     
     self.window.rootViewController = navc;
-    
+    //加油,一定要加油, 哈哈哈
+
     return YES;
 }
 
